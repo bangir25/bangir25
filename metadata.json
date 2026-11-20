@@ -1,0 +1,6 @@
+{
+  "name": "কণ্ঠস্টুডিও — নিজস্ব কণ্ঠস্বরে টেক্সট টু স্পিচ",
+  "description": "আপনার নিজের কণ্ঠের পিচ, টোন ও উচ্চারণ বিশ্লেষণ করে বাংলা ও ইংরেজি লেখাকে প্রাকৃতিক অডিওতে রূপান্তর করার প্রফেশনাল ওয়েব স্টুডিও।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
